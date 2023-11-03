@@ -1,16 +1,16 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
+  "BusinessInformation": {
+    "businessName": "Hotel Red Rock Jewel",
+    "instagramLink": "someSampleLink",
+    "googleMapsLink": "someSampleLink"
+  },
+  "fonts": {
+    "businessNameFont": "__className_fd8668",
+    "categoryButtonFont": "__className_f53810",
+    "vegNonVegFont": "__className_932e70",
+    "categoryNameFont": "__className_fd8668",
+    "foodItemNameFont": "__className_4d360d",
+    "descriptionFont": "__className_7f2f27",
+    "priceFont": "__className_f53810"
+  }
 }
