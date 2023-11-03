@@ -11,6 +11,7 @@
     "categoryNameFont": "__className_fd8668",
     "foodItemNameFont": "__className_4d360d",
     "descriptionFont": "__className_7f2f27",
-    "priceFont": "__className_f53810"
+    "priceFont": "__className_f53810",
+    "sampleText":"SampleFont",
   }
 }
